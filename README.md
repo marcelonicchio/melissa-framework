@@ -409,8 +409,8 @@ Independent Researcher
 São Paulo, Brazil  
 [marcelonicchio@gmail.com]
 
-**Repository:** https://github.com/marcelonicchio/melissa-framework  
-**Paper:** [Zenodo DOI - pending]  
+**Repository:** [https://github.com/marcelonicchio/melissa-1.0-forensic-study]
+**Paper:** [Zenodo DOI - 10.5281/zenodo.18202992]  
 **Archive:** [OSF link - pending]
 
 ---
