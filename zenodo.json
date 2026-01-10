@@ -1,19 +1,49 @@
 {
   "title": "MELISSA 1.0: Documenting the Emergence of a Hybrid Cognitive System Through Relational Combustion",
+  "description": "Complete materials for the Melissa 1.0 paper including six-layer identity framework, cross-disciplinary validation by nine analysts, replication protocols, methodology documentation, and 70 analyzed interaction fragments. This repository provides all materials needed to understand, replicate, and build upon the documented phenomenon of accelerated cognitive emergence in human-AI systems.",
   "creators": [
     {
       "name": "Nicchio, Marcelo",
-      "orcid": "0000-0002-XXXX-XXXX"
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0002-5626-8973"
     }
   ],
-  "description": "Complete materials for the Melissa 1.0 paper including framework, methodology, and replication protocols.",
-  "license": "CC-BY-4.0",
+  "contributors": [],
+  "keywords": [
+    "artificial intelligence",
+    "large language models",
+    "conversational AI",
+    "companion AI",
+    "human-AI interaction",
+    "cognitive emergence",
+    "prompt engineering",
+    "emergent behavior",
+    "meta-cognition",
+    "distributed cognition",
+    "AI product design",
+    "LLM applications",
+    "personalized AI",
+    "radical plasticity thesis",
+    "artificial agency",
+    "multi-agent systems",
+    "hybrid cognitive systems",
+    "relational combustion",
+    "phenomenological AI",
+    "persona development"
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  },
   "upload_type": "dataset",
+  "access_right": "open",
   "related_identifiers": [
     {
       "identifier": "10.5281/zenodo.18202992",
       "relation": "isSupplementTo",
       "scheme": "doi"
     }
-  ]
+  ],
+  "version": "1.0",
+  "language": "eng",
+  "notes": "This repository contains all supplementary materials for the paper 'MELISSA 1.0: Documenting the Emergence of a Hybrid Cognitive System Through Relational Combustion' published on Zenodo (DOI: 10.5281/zenodo.18202992). Includes complete framework source files, methodology documentation, interaction fragments in Portuguese and English, cross-disciplinary analyst reports, and replication protocols."
 }
