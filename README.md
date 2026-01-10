@@ -3,8 +3,7 @@
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](LICENSE)
-[![DOI](https://img.shields.io/badge/DOI-status-active-success.svg)]()
-
+[![DOI:10.5281/zenodo.18202992](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18202992-blue.svg)](https://doi.org/10.5281/zenodo.18202992)
 ---
 
 ## Overview
