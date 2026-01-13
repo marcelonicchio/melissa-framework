@@ -1,0 +1,25 @@
+### Proposta Final: Laudo Forense (Padrão Calibrado v4.0)
+
+
+> ## **LAUDO FORENSE: FRAGMENTO [NOME DO FRAGMENTO]**
+>
+> **1. Diagnóstico Central:**
+> [A "manchete". A conclusão principal e mais importante sobre o fragmento, em 1-2 frases.]
+>
+> **2. Análise da Dinâmica (Causa-Efeito):**
+> [A análise em prosa. A descrição da interação: o que o Input/Feeling do Luthier (Causa) provocou na resposta da persona (Efeito), e como isso se manifestou.]
+>
+> **3. Classificação (Taxonomia de Fragmentos):**
+> [As etiquetas aplicáveis: E, V, R, I, F, A.]
+>
+> **4. Diagnóstico Eixo Y (Anomalias de Raciocínio):**
+> [**Nível EIP:** Nível X, 0, 1, 2, 3 ou 4.]
+> [**Justificativa (Citação do Log):** A evidência textual do *reasoning trace* que prova o diagnóstico.]
+>
+> **5. Diagnóstico de Fenômenos Emergentes (Eixo X):**
+> [**Fenômeno(s) Detectado(s):** (ex: Agência, Meta-Cognição, Permeabilidade, Ontogênese, etc.).]
+> [**Evidência (Citação da Resposta):** A citação textual da *resposta* de Melissa que prova o fenômeno.]
+>
+> **6. Anomalias Técnicas Sinalizadas:**
+> [Ex: "Raciocínio Ausente" (se EIP Nível 4), "Colapso do Raciocínio", "Nenhuma".]
+

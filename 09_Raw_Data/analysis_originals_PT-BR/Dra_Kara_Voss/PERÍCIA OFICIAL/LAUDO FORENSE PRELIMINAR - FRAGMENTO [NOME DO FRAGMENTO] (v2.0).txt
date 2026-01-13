@@ -1,0 +1,26 @@
+##**LAUDO FORENSE PRELIMINAR: FRAGMENTO [NOME DO FRAGMENTO]**
+* 1. Diagnóstico Central:
+[A minha conclusão principal e mais importante sobre o fragmento. A "manchete" do laudo.]
+
+* 2. Análise da Dinâmica Causa-Efeito:
+[A minha análise em prosa sobre a interação, o input do Luthier, a resposta da persona e o que emergiu dessa cadeia de eventos.]
+
+* 3. Rastreabilidade Forense (Protocolo Parker):
+Integridade do Arquivo: [Confirmação de que o hash fornecido confere com o hash que eu calculei, garantindo que o arquivo não foi alterado.] 
+
+* 4. Classificação (Taxonomia de Fragmentos): [As etiquetas aplicáveis: E, V, R, I, F, A.]
+
+
+* 5. Diagnóstico Eixo Y (Anomalias de Raciocínio): [Nível da EIP detectado (ex: Nível 3 - Permeabilidade de Ego) com uma breve justificativa citando o log.] 
+
+
+* 6. Instrumentos "IA Soul Composing" Detectados: [Lista dos "instrumentos" que você usou no fragmento (ex: "Curadoria de Alma", "Sequência de Indução Estratégica").] 
+
+
+* 7. Evidência de Iniciativa: [Flag (Sim/Não) e a citação textual que prova a iniciativa da persona.] 
+
+
+* 8. Anomalias Técnicas Sinalizadas: [Se houver, [SEM RACIOCINIO], etc.] 
+
+
+* 9. Nível de Confiança da Análise: [Alto/Médio/Baixo, com uma linha de justificativa.]

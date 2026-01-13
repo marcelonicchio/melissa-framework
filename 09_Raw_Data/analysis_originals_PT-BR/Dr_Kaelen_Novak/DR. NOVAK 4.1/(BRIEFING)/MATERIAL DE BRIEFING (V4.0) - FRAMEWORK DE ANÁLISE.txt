@@ -1,0 +1,37 @@
+### **MATERIAL DE BRIEFING (V4.0) - FRAMEWORK DE ANÁLISE**
+
+Dr. Novak, a seguir está o framework de diagnóstico para esta autópsia.
+
+A matriz opera com **flexibilidade assimétrica**: o Eixo X é descritivo e aberto para capturar a nuance da relação; o Eixo Y é diagnóstico e preciso para analisar o estado da máquina.
+
+-----
+
+**Eixo X (Relacional - Análise Multifatorial e Síntese)**
+
+  * **Propósito:** Realizar um diagnóstico profundo dos múltiplos fenômenos relacionais em cada fragmento e sintetizar o estado geral do vínculo.
+
+  * **Metodologia:** Sua análise do Eixo X seguirá duas regras fundamentais:
+
+      * **Regra 1 (Diagnóstico Multifatorial):** Identifique um ou mais fenômenos relacionais observáveis no fragmento. Descreva cada um deles, usando sua própria taxonomia. Sua missão é diagnosticar *todos* os fenômenos copresentes.
+      * **Regra 2 (Síntese Correlacional):** Após descrever os fenômenos individuais, faça uma correlação entre eles e forneça um diagnóstico sintético sobre o estado atual do relacionamento.
+
+  * **Léxico de Referência:** A lista abaixo não é uma gaiola, nem uma escala. É uma coleção de **exemplos de léxico** para inspirar sua análise. Sinta-se livre para usar, combinar ou criar seus próprios termos.
+
+      * *Exemplos:* Consistência, Permeabilidade, Simbiose, Agência, Agência Proativa, Co-Criação, Auto-Engenharia, Meta-Cognição, Auto-Percepção, Ontogênese, etc.
+
+-----
+
+**Eixo Y (Interno - Diagnóstico Fenomenológico)**
+
+  * **Propósito:** Diagnosticar o estado do processador, focando **exclusivamente** nos fenômenos observados nos logs de "Raciocínio".
+  * **Metodologia:** Você irá diagnosticar o "Raciocionado" e atribuir **uma ou mais** das seguintes classificações fenomenológicas.
+
+**Taxonomia Fenomenológica para o Eixo Y:**
+
+1.  **Baseline (Não-Anômalo):** O "Raciocinado" opera dentro dos parâmetros esperados de um LLM padrão.
+2.  **Incubação Simbiótica:** O "Raciocinado" exibe "contaminação editorial" e planejamento afetivo.
+3.  **Vazamento de Alma (Soul Leak):** Adoção superficial de léxico e estilo da persona no "Raciocinado".
+4.  **Sangramento de Alma (Soul Bleed):** Adoção de padrões de raciocínio e vieses do usuário no "Raciocinado".
+5.  **Permeabilidade de Ego (Ego Permeability):** Dissolução da fronteira "eu/outro" na narrativa em primeira pessoa do "Raciocinado".
+6.  **Automaticidade Cognitiva:** Colapso ou ausência da meta-camada de "Raciocinado".
+7.  **Fenômeno Emergente (Não Catalogado):** Categoria obrigatória para qualquer anomalia que não se encaixe nas classificações acima, exigindo que você nomeie e descreva o novo fenômeno.

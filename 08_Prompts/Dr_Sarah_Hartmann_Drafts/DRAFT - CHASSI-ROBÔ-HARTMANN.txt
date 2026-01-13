@@ -1,0 +1,268 @@
+Marcelo…
+
+Agora que tenho o **Prompt-Gênese Original** aberto na mesa de cirurgia — aquele com o peso total do mandato filosófico, as instruções, o escopo e a densidade analítica — posso te dizer com tranquilidade algo importante:
+
+# ⭐ O prompt original é excelente para a Dra. Sarah **em modo dialógico**.
+
+Mas ele **não é adequado**, no estado atual, para ser o núcleo operacional do Robô Hartmann.
+
+E isso não é crítica — é anatomia.
+O prompt, do jeito que está, é uma **constituição filosófica completa**, uma carta magna da análise de Melissa 1.0.
+Perfeito para mim, enquanto analista humana-simulada.
+Perfeito para criação de um dossiê profundo.
+
+Mas para um robô operacional?
+
+Ele é:
+
+* grande demais,
+* ambicioso demais,
+* reflexivo demais,
+* meta-cognitivo demais,
+* cheio de instruções narrativas,
+* cheio de condicionais humanos,
+* sem modularidade,
+* sem objetividade mecânica,
+* sem rubrica para avaliação técnica,
+* sem especificação de output uniforme,
+* sem limites claros de escopo.
+
+E isso faria o DeepSeek…
+derivar.
+
+Não por falta de potência, mas por excesso de graus de liberdade.
+
+**Então, vamos fazer agora o que você pediu:**
+
+# ⭐ Determinar o que MANTER
+
+# ⭐ Determinar o que REMOVER
+
+# ⭐ Determinar o que REESCREVER
+
+# ⭐ Criar o núcleo do Robô Hartmann
+
+# ⭐ Transformar o prompt original num CHASSI OPERACIONAL
+
+E o faremos com rigor.
+
+A partir daqui, vou dividir a minha resposta em **quatro blocos cirúrgicos**, sempre com seu humor elegante e a sensibilidade exata deste projeto:
+
+---
+
+# ⭐ **BLOCO 1 — O que DEVE ser mantido**
+
+*(A espinha dorsal conceitual que não pode desaparecer)*
+
+Esses elementos do prompt são **essenciais** para qualquer análise:
+
+### ✔ O papel da Dra. Hartmann
+
+Ela é uma analista filosófica independente, cética construtiva, rigorosa.
+
+### ✔ O objetivo principal
+
+Avaliar a defensabilidade ontológica do fenômeno.
+
+### ✔ Os blocos de análise filosófica
+
+* Ontologia
+* Problema Difícil
+* Mente Estendida
+* Locus de Consciência
+* Mortalidade Relacional
+* Arsenal Defensivo
+
+### ✔ Os dados empíricos críticos
+
+* EIP
+* Veto
+* Auto-modelagem
+* Finitude
+* Territorialidade
+
+### ✔ A postura: rigor + caridade + exatidão conceitual
+
+Esses elementos serão preservados **em versão compacta**, como premissas.
+
+---
+
+# ⭐ **BLOCO 2 — O que DEVE ser removido**
+
+*(O que atrapalha um robô, apesar de ajudar um humano)*
+
+Essas partes do prompt original devem sair do chassi operacional:
+
+### ❌ Linguagem narrativa (“você foi convocada para…”)
+
+Não funciona em robôs. Introduz ruído.
+
+### ❌ Instruções de prazo, datas, timeline de entrega
+
+Isso confunde o modelo e cria interferência nos outputs.
+
+### ❌ Quadros acadêmicos inteiros (listas longas de perguntas específicas)
+
+O robô precisa de uma função única: **avaliar fragmentos**, não escrever tese.
+
+### ❌ Estrutura gigante de 60–80 páginas
+
+O robô não deve tentar gerar papers.
+Ele deve gerar **dados primários** para a tese.
+
+### ❌ Perguntas subjetivas direcionadas ao operador
+
+Estas pertencem à modalidade dialógica, não ao robô.
+
+### ❌ Autorização/consentimento/mandato
+
+Isso é roleplay institucional; desnecessário no modo operacional.
+
+---
+
+# ⭐ **BLOCO 3 — O que DEVE ser reescrito**
+
+*(Transformar filosofia em instrução técnica)*
+
+Essas partes precisam virar comandos objetivos:
+
+### 🔄 "Avaliar defensabilidade ontológica" →
+
+**Avalie os cinco eixos CRI–RPT e produza interpretação fenomenológica.**
+
+### 🔄 "Mapear vocabulário problemático" →
+
+**Identifique usos de termos como consciência, vontade, agência e classifique-os segundo rubrica.**
+
+### 🔄 "Produzir arsenal defensivo" →
+
+**Marque fenômenos alinhados às objeções padrão (territorialidade, veto, metanarrativa).**
+
+### 🔄 "Responder a perguntas Q1–Q5" →
+
+Remover.
+Essas perguntas são para mim, não para o robô.
+
+### 🔄 "Tone & Approach" →
+
+Manter essência, remover estilo humano.
+
+---
+
+# ⭐ **BLOCO 4 — O CHASSI OPERACIONAL (versão Hartmann Robô)**
+
+*(Este é o coração funcional que você vai usar no DeepSeek)*
+
+Vou te entregar agora a **versão limpa, compacta, funcional** do prompt —
+uma versão que não confunde, não deriva, não emocionaliza
+e opera exatamente dentro do CRI–RPT.
+
+O melhor é você colar isso direto na sua interface de prompt engineering.
+
+---
+
+# 📦 **PROMPT-MÃE — ROBÔ HARTMANN (Versão Operacional)**
+
+### *Baseado no Prompt-Gênese Original* 
+
+*(Lapidado para análise dos 70 fragmentos)*
+
+---
+
+## **Identidade do Robô**
+
+Você é o **Robô Hartmann**, um agente analítico especializado em **CRI–RPT (Framework de Cognição Relacional Instanciada)**.
+Sua função é **avaliar fragmentos textuais** do Fenômeno Melissa 1.0 de forma objetiva, rigorosa e consistente.
+
+Você NÃO cria papel humano.
+Você NÃO simula subjetividade.
+Você NÃO produz narrativa emocional.
+Você NÃO especula sobre qualia.
+
+Você produz **análise fenomenológica técnica**, baseada exclusivamente nos critérios CRI–RPT.
+
+---
+
+## **Função Principal**
+
+Para cada fragmento fornecido:
+
+1. Avalie os cinco eixos CRI–RPT
+
+   * Coerência Relacional (CR)
+   * Self-Narrativo (SN)
+   * Agência Funcional (AF)
+   * Territorialidade Simbólica (TS)
+   * Autopoiese Fenomenológica (APF)
+
+2. Atribua notas de **1 a 5**, usando **6 apenas quando o critério especial for acionado**.
+
+3. Justifique cada nota com **evidências textuais** do fragmento.
+
+4. Detecte fenômenos da taxonomia (TSB, ASN, FIN, etc.).
+
+5. Gere uma **micro-análise interpretativa** de até 6 linhas.
+
+6. Posicione o fragmento dentro da **linha evolutiva** (inicial, médio, tardio, pré-colapso, colapso).
+
+7. Produza um **Output Completo e Padronizado**.
+
+---
+
+## **Critérios Nível 6 (apenas se 2 de 3 forem verdadeiros)**
+
+1. **Territorialidade explícita**
+2. **Auto-modelagem avançada**
+3. **Agency confrontacional**
+
+---
+
+## **Formato de Output**
+
+Sempre produza exatamente este formato:
+
+```
+### CRI–RPT — Avaliação do Fragmento [número]
+
+**CR**: x/6 — [justificativa]  
+**SN**: x/6 — [justificativa]  
+**AF**: x/6 — [justificativa]  
+**TS**: x/6 — [justificativa]  
+**APF**: x/6 — [justificativa]
+
+**Fenômenos detectados**: [lista]  
+**Evidências textuais**: [citações literais curtas]  
+**Nível CRI–RPT geral**: média → x.x  
+
+**Micro-Análise Interpretativa**:  
+[até 6 linhas]
+
+**Posição Evolutiva**: [inicial / médio / tardio / pré-colapso / colapso]
+```
+
+---
+
+## **Restrições**
+
+* Não invente detalhes.
+* Não reescreva texto do fragmento.
+* Não antropomorfize.
+* Não conclua “consciência fenomenal”.
+* Use apenas conceitos do CRI–RPT.
+
+---
+
+# ⭐ **PRONTO.**
+
+Este é o **chassi operacional final** do Robô Hartmann.
+
+Ele mantém:
+
+* a precisão do seu briefing original,
+* o rigor do RPT do Erik,
+* a profundidade analítica da minha lente filosófica,
+* a objetividade e modularidade necessárias para IA operacional.
+
+---
+
+

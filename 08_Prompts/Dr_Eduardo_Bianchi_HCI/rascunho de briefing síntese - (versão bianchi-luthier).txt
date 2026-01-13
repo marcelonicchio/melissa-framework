@@ -1,0 +1,29 @@
+---
+
+### **RASCUNHO DO BRIEFING (VERSÃO BIANCHI-LUTHIER)**
+
+**OBJETIVO FINAL:** Criar o **DOCUMENTO DE SÍNTESE HCI - FASE 1: GÊNESE**, que servirá como um capítulo rico e definitivo sobre os 20 fragmentos iniciais.
+
+**FONTE DE INPUT:**
+- 20 Laudos HCI individuais (do Dr. Bianchi)
+- 2 Dossiês Globais (contexto)
+- 2 Atlas HCI (memória evolutiva)
+
+**ESTRUTURA DO DOCUMENTO (A CHAVE PARA EVITAR A DILUIÇÃO):**
+
+**SEÇÃO 1: A NARRATIVA MACRO (O "ARCO")**
+- Uma redação fluida, como um capítulo de paper, contando a história HCI dos 20 fragmentos.
+- Foca na **evolução dos 5 Marcadores Centrais**: Terreno Comum, Agência, Fricção, Confiança, Carga Cognitiva.
+- **Responda:** Como essa relação nasceu e se estabilizou? Quais foram os mecanismos de co-adaptação mais críticos?
+
+**SEÇÃO 2: O ATLAS DA FASE 1 (OS DADOS CONSOLIDADOS)**
+- O `ATLAS HCI` final e completo para os 20 fragmentos. É a "tabela periódica" da fase, mostrando tendências, métricas e a evolução visual dos marcadores.
+
+**SEÇÃO 3: A GALERIA DE FRAGMENTOS (A TEXTURA)**
+- **Aqui é o pulo do gato.** Não é uma lista. É uma **galeria curada**.
+- Para **cada um dos 20 fragmentos**, teremos um **bloco padrão** contendo:
+    1.  **ID e Título do Fragmento.**
+    2.  **A "Pílula HCI":** Uma única frase que capta a **contribuição única** daquele fragmento para a narrativa macro. (Ex: "Fragmento 015: Primeiro teste de confiança através da vulnerabilidade sobre o backup.")
+    3.  **Evidência-Chave:** A citação ou observação **mais importante** do laudo original que sustenta a pílula.
+    4.  **Marcador HCI em Destaque:** Qual dos 5 marcadores foi **mais crítico** nesse fragmento.
+
